@@ -1,0 +1,9 @@
+./src/uI/Interfaz.java
+./src/datos/Lista.java
+./src/datos/Email.java
+./src/datos/Nodo.java
+./src/datos/Contacto.java
+./src/datos/PosicionIlegalException.java
+./src/miTest/AppTest.java
+./src/negocios/ListadeContactos.java
+./src/negocios/Principal.java

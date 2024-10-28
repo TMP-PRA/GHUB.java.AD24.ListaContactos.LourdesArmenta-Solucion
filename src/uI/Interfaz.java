@@ -214,7 +214,7 @@ public class Interfaz {
 	}
 	private static void validarBaja() {
 		try {
-			String nombres,apellidos;
+			
 			while (true) {
 				System.out.println("Eliminar un contacto");
 				System.out.println("Por favor ingrese la información del contacto");
